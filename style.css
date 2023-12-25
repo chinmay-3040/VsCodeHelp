@@ -1,0 +1,143 @@
+.container{
+    margin-top: 50px;
+    display: flex;
+    /* height : 100px; */
+    margin-bottom: 20px;
+}
+
+#logo1 img{
+    margin-left: 50px;
+    height: 100px;
+    border-radius: 50%;
+}
+#heading{
+    margin-left: 50px;
+    /* height: 100px; */
+}
+
+#heading p{
+    font-size: 20px;
+}
+
+#heading h3{
+    margin-bottom: 5px;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+    font-weight:600;
+}
+
+#heading p{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+    padding-bottom: 0px;
+}
+
+#heading button{
+    cursor: pointer;;
+    height: 30px;
+    background-color: white;
+    color: #007ad9;
+    border: 2px solid #007ad9;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.cont2{
+    /* height:130px; */
+    display: flex;
+}
+.cont2-1{
+    margin-left: 50px;
+    width: 900px;
+}
+.cont2-1-1{
+    font-family: sans-serif;
+    font-size: large;
+}
+.cont2-1-2{
+    color: grey;
+}
+.cont2-1-3{
+    color: green;
+    font-size: large;
+}
+.cont2-1-4{
+    color: rgb(129, 49, 198);
+    font-size: large;
+}
+.cont2 img{
+    height:80px;
+    margin:10px;
+}
+
+.cont3{
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.cont3 h3{
+    font-family: sans-serif;
+}
+
+.cont3-3{
+    display: flex;
+}
+
+.cont3-3 div{
+    width:500px;
+    /* margin-right: 5px; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cont3-3 div a{
+    color: rgb(17, 160, 17);
+    text-decoration: none;
+}
+
+
+.cont3-4{
+    display: flex;
+}
+
+.cont3-4 button{
+    width:500px;
+    /* margin-right: 5px; */
+    color: grey;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border:1px solid grey;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cont3-4 button:hover{
+    cursor: pointer;
+}
+
+.cont3-5{
+
+    padding-left: 93%;
+    margin-top: 20px;
+    
+}
+
+.cont3-5 button{
+    cursor: pointer;
+    background-color: white;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius:5px;
+    color: grey;
+    width: 80px;;
+}
